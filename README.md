@@ -35,4 +35,10 @@ In optimized system, Nearest-Neighbor algorithm has been implemented. And in Mat
 
 ## Contact Info
 
-* jiangyu@bu.edu & gaojq@bu.edu
+If you have any questions about Data Collection and Data Manipulation, please contact
+
+* jiangyu@bu.edu
+
+For Data Trimming and Cleaning
+
+* gaojq@bu.edu

@@ -32,3 +32,7 @@ In optimized system, Nearest-Neighbor algorithm has been implemented. And in Mat
 <img width="440" alt="2018-04-29 6 27 41" src="https://user-images.githubusercontent.com/22137277/39411585-d231b842-4bda-11e8-9a45-d5cbaee4f21f.png">
 
 <img width="438" alt="2018-04-29 6 27 50" src="https://user-images.githubusercontent.com/22137277/39411588-d9fbe07a-4bda-11e8-935a-40a79c341d23.png">
+
+## Contact Info
+
+* jiangyu@bu.edu & gaojq@bu.edu

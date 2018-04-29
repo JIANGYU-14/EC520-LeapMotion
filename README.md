@@ -24,9 +24,11 @@ The frame rate of Leap-Motion controller is about 120 frames per second, and eac
 
 In optimized system, Nearest-Neighbor algorithm has been implemented. And in Matlab, the corresponding method is KNNSearch(x,y), which finds the nearest neighbor in x for each point in y with default k equals 1 and value in Euclidean distance.
 
-<img width="440" alt="2018-04-29 6 27 41" src="https://user-images.githubusercontent.com/22137277/39411585-d231b842-4bda-11e8-9a45-d5cbaee4f21f.png">
 
-<img width="438" alt="2018-04-29 6 27 50" src="https://user-images.githubusercontent.com/22137277/39411588-d9fbe07a-4bda-11e8-935a-40a79c341d23.png">
+<img width="492" alt="2018-04-29 6 27 19" src="https://user-images.githubusercontent.com/22137277/39411591-ffcb795a-4bda-11e8-98d0-76ee76d602d8.png">
 
 <img width="420" alt="2018-04-29 6 27 33" src="https://user-images.githubusercontent.com/22137277/39411589-ddd572ec-4bda-11e8-802f-8b54faa13461.png">
 
+<img width="440" alt="2018-04-29 6 27 41" src="https://user-images.githubusercontent.com/22137277/39411585-d231b842-4bda-11e8-9a45-d5cbaee4f21f.png">
+
+<img width="438" alt="2018-04-29 6 27 50" src="https://user-images.githubusercontent.com/22137277/39411588-d9fbe07a-4bda-11e8-935a-40a79c341d23.png">
